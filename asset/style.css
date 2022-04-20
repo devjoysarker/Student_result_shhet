@@ -1,0 +1,21 @@
+  
+
+
+
+  .science-box,
+  .arts-box,
+  .commerce-box{
+      display: none;
+  }
+.student-result-data img{
+    width: 200px;
+    height: auto;
+    border: 10px solid #fff;
+    display: block;
+    margin: auto;
+}
+.student-result-data h2{
+    text-align: center;
+    margin-top: 10px ;
+    font-size: 22px;
+}
